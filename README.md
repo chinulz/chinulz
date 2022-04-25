@@ -33,11 +33,9 @@
 
 <br>
 
-### Tools:
-
 - Text Editor (IDE)
 
-    <img align="left"alt="Acode" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/acode.png" />
+    <img align="left"alt="Acode" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/acode.svg" />
 
 <br>
 
