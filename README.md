@@ -25,15 +25,15 @@
 
     <img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/javascript.svg" />
 
-    <img align="left" alt="CSS" width="46px" src="https://raw.githubusercontent.com/chinulz/icon/main/css.svg" />
+    <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/css.svg" />
 
-    <img align="left" alt="HTML" width="52px" src="https://raw.githubusercontent.com/chinulz/icon/main/html.svg" />
+    <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/html.svg" />
 
     <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/python.svg" />
 
-<br><br>
+<br><br><br><br><br><br>
 
-- Text Editor (IDE)
+- Text Editor
 
     <img align="left"alt="Acode" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/acode.png" />
 
