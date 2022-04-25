@@ -10,7 +10,7 @@
 ### Operating System:
 
   <a href="https://www.android.com">
-    <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/os/linux/android/android.svg" />
+    <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/android.svg" />
   </a>
 
 <br>
