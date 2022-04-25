@@ -13,7 +13,7 @@
     <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/android.svg" />
   </a>
 
-<br>
+<br><br>
 
 ### Language:
 
@@ -31,13 +31,13 @@
 
     <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/python.svg" />
 
-<br>
+<br><br>
 
 - Text Editor (IDE)
 
-    <img align="left"alt="Acode" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/acode.svg" />
+    <img align="left"alt="Acode" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/acode.png" />
 
-<br>
+<br><br>
 
 - Framework
 
