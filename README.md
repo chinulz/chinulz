@@ -23,9 +23,9 @@
 
 - Language
 
-    <img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/javascript.svg" />
+    <img align="left" alt="JAVASCRIPT" width="36px" src="https://raw.githubusercontent.com/chinulz/icon/main/javascript.svg" />
 <br>
-    <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/css.svg" />
+    <img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/chinulz/icon/main/css.svg" />
 <br>
     <img align="left" alt="HTML" width="36px" src="https://raw.githubusercontent.com/chinulz/icon/main/html.svg" />
 <br>
