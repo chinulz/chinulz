@@ -21,15 +21,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinulz&layout=compact&show_icons=true&theme=radical" alt="Most Used Languages" align="right" width="400px"/>
 </a>
 
-- Programming Language
+- Language
 
-    <img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/language/programming/javascript.svg" />
+    <img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/javascript.svg" />
 
-    <img align="left" alt="CSS" width="46px" src="https://raw.githubusercontent.com/chinulz/icon/main/language/programming/css.svg" />
+    <img align="left" alt="CSS" width="46px" src="https://raw.githubusercontent.com/chinulz/icon/main/css.svg" />
 
-    <img align="left" alt="HTML" width="52px" src="https://raw.githubusercontent.com/chinulz/icon/main/language/programming/html.svg" />
+    <img align="left" alt="HTML" width="52px" src="https://raw.githubusercontent.com/chinulz/icon/main/html.svg" />
 
-    <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/language/programming/python.svg" />
+    <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/python.svg" />
 
 <br>
 
@@ -37,24 +37,24 @@
 
 - Text Editor (IDE)
 
-    <img align="left"alt="Acode" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/text-editor/acode.svg" />
+    <img align="left"alt="Acode" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/acode.svg" />
 
 <br>
 
 - Framework
 
-    <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/framework/bootstrap.svg" />
+    <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/bootstrap.svg" />
 
 <br>
 
 - Version Control System (VCS)
 
   <a href="https://github.com/" target="_blank">
-    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/version-control-system/github.png"/>
+    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/github.png"/>
   </a>
 
   <a href="https://git-scm.com">
-    <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/version-control-system/git.svg" />
+    <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/chinulz/icon/main/git.svg" />
   </a>
 
 <br>
@@ -62,5 +62,5 @@
 - Terminal Emulator
 
   <a href="https://wiki.termux.com">
-    <img align="left" alt="Terminal Emulator for Android" width="36px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/terminal-emulator/termux.png" />
+    <img align="left" alt="Terminal Emulator for Android" width="36px" src="https://raw.githubusercontent.com/chinulz/icon/main/termux.png" />
   </a>
