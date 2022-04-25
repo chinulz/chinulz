@@ -1,10 +1,66 @@
-- 👋 Hi, I’m @chinulz
-- 👀 I’m the newbie programmer
-- 🌱 I’m currently learning the programming
-- 💞️ I’m looking to collaborate on learn programming
-- 📫 https://instagram.com/chinulniboss 
+### :octocat: Hi there!
 
-<!---
-chinulz/chinulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/chinulz">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinulz&show_icons=true&theme=radical" alt="GitHub Stats" align="right" width="400px"/>
+</a>
+
+<br>
+<br>
+
+### Operating System:
+
+  <a href="https://www.android.com">
+    <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/os/linux/android/android.svg" />
+  </a>
+
+<br>
+
+### Language:
+
+<a href="https://github.com/chinulz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinulz&layout=compact&show_icons=true&theme=radical" alt="Most Used Languages" align="right" width="400px"/>
+</a>
+
+- Programming Language
+
+    <img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/language/programming/javascript.svg" />
+
+    <img align="left" alt="CSS" width="46px" src="https://raw.githubusercontent.com/chinulz/icon/main/language/programming/css.svg" />
+
+    <img align="left" alt="HTML" width="52px" src="https://raw.githubusercontent.com/chinulz/icon/main/language/programming/html.svg" />
+
+    <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/language/programming/python.svg" />
+
+<br>
+
+### Tools:
+
+- Text Editor (IDE)
+
+    <img align="left"alt="Acode" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/text-editor/acode.svg" />
+
+<br>
+
+- Framework
+
+    <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/framework/bootstrap.svg" />
+
+<br>
+
+- Version Control System (VCS)
+
+  <a href="https://github.com/" target="_blank">
+    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/version-control-system/github.png"/>
+  </a>
+
+  <a href="https://git-scm.com">
+    <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/version-control-system/git.svg" />
+  </a>
+
+<br>
+
+- Terminal Emulator
+
+  <a href="https://wiki.termux.com">
+    <img align="left" alt="Terminal Emulator for Android" width="36px" src="https://raw.githubusercontent.com/chinulz/icon/main/tools/terminal-emulator/termux.png" />
+  </a>
